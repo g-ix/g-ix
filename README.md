@@ -4,15 +4,15 @@
 <h3 align="center">A Software Engineer from India 🌟</h3>
 
 ## 👨‍💻 Who I Am
-- My real name is Gurpreet Singh, but I like calling myself Garry. Because, to me, _Garry_ sounds like an **Anime Villian's Name**.
+- My real name is Gurpreet Singh, but I like calling myself Garry. Because, to me, _Garry_ sounds like an **Anime Villain's Name**.
 - The guy who **codes** every sec, sec, sec, sec. Oh Crap! not another cron job.
 - **Software Architect**: That's usually how I define myself. On the other days, it's just me - a classic old **Programmer**
-- Passionate about bridging **technology and purpose**. That's what I like saying but it's just I am addicted to datatypes and variables, and loops, and OOPS. _Grammarly asked me to fix grammar of this line, but lol, who she kidding_.
+- Passionate about bridging **technology and purpose**. That's what I like saying but it's just I am addicted to datatypes and variables, and loops, and OOPS. _Grammarly asked me to fix the grammar of this line, but lol, who she kidding_.
 - At night, I am a **W**rapper! That's me being a **Rapper** with a big **W**. I thought it would sound cool, though.
-- 📫 How to reach me `gb.gurpreetbamrah at gmail dot com`
+- 📫 How to reach me: `gb.gurpreetbamrah at gmail dot com`
 
 ## 🫀 My motivation
-- Those C+ ratings that github gave me. Just one **+** less from being a OOPS language myself.
+- Those C+ ratings that GitHub gave me. Just one **+** less from being an OOPS language myself.
 
 <br>
 
