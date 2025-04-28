@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" width="124" height="31" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" width="90" height="31" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff" alt="Node" width="105" height="31" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=efbf04&labelColor=306998&color=306998" alt="Python" width="115" height="31" />
     <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=fff" alt="Azure" width="65" height="31" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" alt="Docker" width="100" height="31" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="MongoDB" width="124" height="31" />
