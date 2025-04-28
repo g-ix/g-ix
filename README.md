@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**gurpreetengineer/gurpreetengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Gurpreet Singh (Call me Garry, WASSUP!)
 
-Here are some ideas to get you started:
+> *"Build with clarity. Live with character."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Who I Am
+
+- **Senior Software Engineer** | **Cloud Enthusiast** | **Architect of Scalable Systems**
+- I craft **clean, efficient** code with a focus on **scalability**, **performance**, and **elegance**.
+- Passionate about bridging **technology and purpose**.
+
+---
+
+## 🛠️ Tech Expertise
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
+
+---
+
+## 📈 GitHub Stats
+
+![Garry's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide=issues&hide_rank=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](your-portfolio-link)
+
+---
+
+> *"Technology builds the future. Character builds the man."*
+
