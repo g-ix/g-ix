@@ -21,8 +21,8 @@
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript" width="124" height="31" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" width="124" height="31" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" width="100" height="31" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff" alt="Node" width="124" height="31" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React" width="90" height="31" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff" alt="Node" width="105" height="31" />
     <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=fff" alt="Azure" width="65" height="31" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff" alt="Docker" width="100" height="31" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" alt="MongoDB" width="124" height="31" />
@@ -35,10 +35,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gurpreetengineer&show_icons=true&theme=tokyonight&hide=issues&hide_rank=false" alt="gurpreetengineer" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurpreetengineer&layout=compact&theme=tokyonight" alt="gurpreetengineer" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurpreetengineer&show_icons=true&locale=en&theme=dark" alt="gurpreetengineer" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=gurpreetengineer&theme=dark&hide_border=true&border_radius=4.3&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
