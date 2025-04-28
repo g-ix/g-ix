@@ -1,16 +1,14 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gurpreetengineer&label=Profile%20views&color=0e75b6&style=flat" alt="garry" /> </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Garry</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bamrah... Garry Bamrah</h1>
 <h3 align="center">A Software Engineer from India 🌟</h3>
 
-<br>
-
-
 ## 👨‍💻 Who I Am
+- My real name is Gurpreet Singh, but I like calling myself Garry. Because, to me, _Garry_ sounds like an **Anime Villian's Name**.
 - The guy who **codes** every sec, sec, sec, sec. Oh Crap! not another cron job.
-- **Software Architect**: That's usually how I define myself. On the other days, it's just classic old **Programmer**
-- Passionate about bridging **technology and purpose**. That's what I like saying but it's just I am addicted to datatypes and variables, and loops, and OOPS. Grammarly asked me to fix grammar of this line, but lol, who she kidding.
-- At night, I am a **W**rapper! That's me being a **Rapper** with big **W**. I thought it would sound cool though.
+- **Software Architect**: That's usually how I define myself. On the other days, it's just me - a classic old **Programmer**
+- Passionate about bridging **technology and purpose**. That's what I like saying but it's just I am addicted to datatypes and variables, and loops, and OOPS. _Grammarly asked me to fix grammar of this line, but lol, who she kidding_.
+- At night, I am a **W**rapper! That's me being a **Rapper** with a big **W**. I thought it would sound cool, though.
 - 📫 How to reach me `gb.gurpreetbamrah at gmail dot com`
 
 ## 🫀 My motivation
@@ -38,8 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gurpreetengineer&show_icons=true&theme=tokyonight&hide=issues&hide_rank=false" alt="gurpreetengineer" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurpreetengineer&layout=compact&theme=tokyonight" alt="gurpreetengineer" />
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gurpreetengineer&show_icons=true&locale=en&theme=dark" alt="gurpreetengineer" />
