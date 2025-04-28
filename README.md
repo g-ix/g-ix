@@ -3,7 +3,6 @@
 # 👋 Hi, I'm Gurpreet Singh (Call me Garry, WASSUP!)
 
 > *"Build with clarity. Live with character."*
-
 ---
 
 ## 👨‍💻 Who I Am
@@ -29,16 +28,15 @@
 
 ## 📈 GitHub Stats
 
-![Garry's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide=issues&hide_rank=false)
+![Garry's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurpreetengineer&show_icons=true&theme=tokyonight&hide=issues&hide_rank=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurpreetengineer&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](your-portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mr-gurpreet-singh/)
 
 ---
 
