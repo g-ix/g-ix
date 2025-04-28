@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gurpreetengineer&show_icons=true&locale=en&theme=dark" alt="gurpreetengineer" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurpreetengineer&theme=dark" alt="gurpreetengineer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gurpreetengineer&theme=dark&hide_border=true&border_radius=4.3&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ## 📫 Let's Connect
