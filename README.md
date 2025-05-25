@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gurpreetengineer&label=Profile%20views&color=0e75b6&style=flat" alt="garry" /> </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bamrah... Garry Bamrah</h1>
-<h3 align="center">A Software Engineer from India 🌟</h3>
+<h3 align="center">A Software Engineer from Brehmand 🌟</h3>
 
 ## 👨‍💻 Who I Am
 - My real name is Gurpreet Singh, but I like calling myself Garry. Because, to me, _Garry_ sounds like an **Anime Villain's Name**.
