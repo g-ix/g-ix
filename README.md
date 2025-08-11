@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=gurpreetengineer&label=Profile%20views&color=0e75b6&style=flat" alt="garry" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=g-ix&label=Profile%20views&color=0e75b6&style=flat" alt="garry" /> </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bamrah... Garry Bamrah</h1>
 <h3 align="center">A Software Engineer from Brehmand 🌟</h3>
@@ -34,9 +34,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurpreetengineer&show_icons=true&theme=tokyonight&hide=issues&hide_rank=false" alt="gurpreetengineer" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurpreetengineer&layout=compact&theme=tokyonight" alt="gurpreetengineer" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gurpreetengineer&theme=dark&hide_border=true&border_radius=4.3&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=g-ix&show_icons=true&theme=tokyonight&hide=issues&hide_rank=false" alt="g-ix" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-ix&layout=compact&theme=tokyonight" alt="g-ix" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=g-ix&theme=dark&hide_border=true&border_radius=4.3&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ## 📫 Let's Connect
