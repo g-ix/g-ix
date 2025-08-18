@@ -29,17 +29,6 @@
 </p>
 
 <br>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=g-ix&show_icons=true&theme=tokyonight&hide=issues&hide_rank=false" alt="g-ix" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-ix&layout=compact&theme=tokyonight" alt="g-ix" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=g-ix&theme=dark&hide_border=true&border_radius=4.3&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-## 📫 Let's Connect
-
 <p align="center">
   <a href="https://linkedin.com/in/mr-gurpreet-singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mr-gurpreet-singh" height="30" width="40" /></a>
 </p>
