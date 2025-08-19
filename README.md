@@ -1,17 +1,14 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=g-ix&label=Profile%20views&color=0e75b6&style=flat" alt="garry" /> </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bamrah... Garry Bamrah</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bamrah... Garry Bamrah </h1>
 <h3 align="center">A Software Engineer from Brehmand 🌟</h3>
 
 ## 👨‍💻 Who I Am
 - Straight outta Marvel Cinematic Universe and Mr. Robot.
-- I crave money. May such honesty bring peace to your peace-seeking dogmas. _(I meant if you are thinking of hiring my services.)_
+- My biggest fear is walking barefoot when, suddenly, my pinky toe meets the edge of the wall or the bed's leg.
 - Leap of faith.
 - At night, I am a **W**rapper! That's me being a **Rapper** with a big **W**.
-- 📫 How to reach me: `gb.gurpreetbamrah at gmail dot com`
-
-## 🫀 My motivation                                  
-- Motivation? Too lazy to care. I am just bored.
+- 📫 How to reach me: `gb.garrybamrah at gmail dot com`
 
 <br>
 
