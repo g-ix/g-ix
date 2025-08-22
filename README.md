@@ -11,7 +11,6 @@
 - 📫 How to reach me: `gb.garrybamrah at gmail dot com`
 
 <br>
-
 ## 🛠️ Tech Expertise
 
 <p align="center">
