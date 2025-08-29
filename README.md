@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Who I Am
 - Straight outta Marvel Cinematic Universe and Mr. Robot.
-- My biggest fear is walking barefoot when, suddenly, my pinky toe meets the edge of the bed's leg.
+- Do yourself. I meant a favor.
 - Leap of faith.
 - At night, I am a **W**rapper! That's me being a **Rapper** with a big **W**.
 - 📫 How to reach me: `gb.garrybamrah at gmail dot com`
