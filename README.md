@@ -7,6 +7,7 @@
 - Straight outta Marvel Cinematic Universe and Mr. Robot.
 - Do yourself. I meant a favor.
 - Leap of faith.
+- Lif and death both are truth. one can't exist without another. 
 - At night, I am a **W**rapper! That's me being a **Rapper** with a big **W**.
 - 📫 How to reach me: `gb.garrybamrah at gmail dot com`.
 
