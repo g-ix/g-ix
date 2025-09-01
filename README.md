@@ -8,7 +8,7 @@
 - Do yourself. I meant a favor.
 - Leap of faith.
 - At night, I am a **W**rapper! That's me being a **Rapper** with a big **W**.
-- 📫 How to reach me: `gb.garrybamrah at gmail dot com`
+- 📫 How to reach me: `gb.garrybamrah at gmail dot com`.
 
 <br>
 ## 🛠️ Tech Expertise
