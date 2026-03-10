@@ -10,7 +10,7 @@
 - Life and death are both truths. One can't exist without the other. 
 - At night, I am a **W**rapper! That's me being a **Rapper** with a big **W**.
 - 📫 How to reach me: `gb.garrybamrah at gmail dot com`.
-- OR whatsapp me at: `+971-552587947`
+- OR whatsapp me at: `+971- double five, two, five, eight, seven, nine, forty seven`
 
 <br>
 
