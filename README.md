@@ -6,7 +6,7 @@
 ## 👨‍💻 Who I Am
 - I am that.
 - Life and death are both truths. One can't exist without the other. 
-- 📫 How to reach me: `gb.garrybamrah at gmail dot com`.
+- 📫 How to reach me: `founder @ brehmand.com`.
 - OR whatsapp me at: `+971- double five, two, five, eight, seven, nine, forty seven`
 <br>
 
