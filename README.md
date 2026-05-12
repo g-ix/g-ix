@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=g-ix&label=Profile%20views&color=0e75b6&style=flat" alt="garry" /> </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bamrah... Garry Bamrah </h1>
-<h3 align="center">A Software Engineer from <a href="">Brehmand</a> 🌟</h3>
+<h3 align="center">A Software Engineer from <a href="https://brehmand.com">Brehmand</a> 🌟</h3>
 
 ## 👨‍💻 Who I Am
 - I am that.
