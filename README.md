@@ -13,7 +13,7 @@
 ## 🛠️ Programmer Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,azure,docker,mongodb,cpp,bash,linux,rust,swift" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,azure,docker,mongodb,c,bash,linux,rust,swift" />
 </p>
 
 <p align="center">
